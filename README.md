@@ -18,7 +18,9 @@ Thinking of trying a test swap later
 Base socials: follow @base & @BuildOnBase
 Noted Guild.xyz has Base roles  
 40% done, chill grind 
- 
+Explored Base bridge from Ethereum  
+
+
 
 
 
