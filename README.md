@@ -13,6 +13,8 @@ GM from Base, exploring slowly
 Noted Base uses OP Stack  
 Halfway mindset unlocked  
 Lazy scroll through Base ecosystem page
+dApps like Uniswap on Base seem fun  
+
 
 
 
