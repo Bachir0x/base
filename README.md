@@ -47,6 +47,8 @@ more lazy notes
 feeling it  
 Almost
 incoming  
+Explored Base without sweat
+
 
 
 
