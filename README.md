@@ -34,7 +34,7 @@ Exploring ecosystem apps list
 Thinking about wallet txs for roles
 pro NEET explorer mode 
 Noted Basescan for tx tracking
-
+Close to finish line vibes
 
 
 
