@@ -22,6 +22,8 @@ Explored Base bridge from Ethereum
 Read about cheap txs on Base  
 Imagining deploying Hello World someday  
 Base builder energy incoming (slowly)
+milestone – NEET win
+
 
 
 
