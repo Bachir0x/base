@@ -24,6 +24,8 @@ Imagining deploying Hello World someday
 Base builder energy incoming (slowly)
 milestone – NEET win
 Checked Base token standards
+Noted NFT minting on Base is easy  
+
 
 
 
