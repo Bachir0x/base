@@ -12,6 +12,8 @@ Reading about Base smart contracts basics
 GM from Base, exploring slowly  
 Noted Base uses OP Stack  
 Halfway mindset unlocked  
+Lazy scroll through Base ecosystem page
+
 
 
 
