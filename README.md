@@ -6,6 +6,8 @@ Thinking about connecting MetaMask to Base
 Base is L2 on Ethereum, low fees vibe 
 Saw Onchain Summer mentions in docs  
 Bookmarking Remix for future deploys
+Base explorer: basescan.org looks clean 
+
 
 
 
