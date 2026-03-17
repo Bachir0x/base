@@ -10,6 +10,8 @@ Base explorer: basescan.org looks clean
 Double digits, NEET progress strong
 Reading about Base smart contracts basics
 GM from Base, exploring slowly  
+Noted Base uses OP Stack  
+
 
 
 
