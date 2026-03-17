@@ -28,6 +28,8 @@ Noted NFT minting on Base is easy
 Scrolling Base GitHub repos for inspo
 still no code needed  
 feeling based 
+Read about Base governance maybe
+
 
 
 
