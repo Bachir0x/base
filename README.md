@@ -37,6 +37,8 @@ Noted Basescan for tx tracking
 Close to finish line vibes
 Base community seems welcoming 
 One step closer 
+almost legend status 
+
 
 
 
