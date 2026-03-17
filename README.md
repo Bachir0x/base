@@ -40,6 +40,8 @@ One step closer
 almost legend status 
 Lazy commit streak alive  
 Base L2 advantages noted
+So close now  
+
 
 
 
