@@ -30,7 +30,7 @@ still no code needed
 feeling based 
 Read about Base governance maybe
 Lazy note: Base is fast & cheap  
-
+Exploring ecosystem apps list 
 
 
 
