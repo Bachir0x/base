@@ -15,6 +15,9 @@ Halfway mindset unlocked
 Lazy scroll through Base ecosystem page
 dApps like Uniswap on Base seem fun  
 Thinking of trying a test swap later
+Base socials: follow @base & @BuildOnBase
+  
+
 
 
 
