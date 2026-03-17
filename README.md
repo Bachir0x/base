@@ -31,6 +31,8 @@ feeling based
 Read about Base governance maybe
 Lazy note: Base is fast & cheap  
 Exploring ecosystem apps list 
+Thinking about wallet txs for roles
+
 
 
 
