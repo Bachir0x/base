@@ -49,6 +49,8 @@ Almost
 incoming  
 Explored Base without sweat
 Still reading about Base L2 scaling
+Noted Base has optimistic rollups  
+
 
 
 
