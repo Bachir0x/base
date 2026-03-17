@@ -48,6 +48,8 @@ feeling it
 Almost
 incoming  
 Explored Base without sweat
+Still reading about Base L2 scaling
+
 
 
 
