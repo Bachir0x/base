@@ -14,6 +14,8 @@ Noted Base uses OP Stack
 Halfway mindset unlocked  
 Lazy scroll through Base ecosystem page
 dApps like Uniswap on Base seem fun  
+Thinking of trying a test swap later
+
 
 
 
