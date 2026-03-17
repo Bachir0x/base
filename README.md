@@ -8,6 +8,8 @@ Saw Onchain Summer mentions in docs
 Bookmarking Remix for future deploys
 Base explorer: basescan.org looks clean 
 Double digits, NEET progress strong
+Reading about Base smart contracts basics
+
 
 
 
