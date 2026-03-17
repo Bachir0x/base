@@ -43,6 +43,8 @@ Base L2 advantages noted
 So close now  
 easy  
 go – NEET power  
+more lazy notes  
+
 
 
 
