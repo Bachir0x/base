@@ -45,6 +45,8 @@ easy
 go – NEET power  
 more lazy notes  
 feeling it  
+Almost
+
 
 
 
