@@ -20,6 +20,8 @@ Noted Guild.xyz has Base roles
 40% done, chill grind 
 Explored Base bridge from Ethereum  
 Read about cheap txs on Base  
+Imagining deploying Hello World someday  
+
 
 
 
