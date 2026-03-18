@@ -94,6 +94,8 @@ Feeling the finish line
 more batches
 left in this set  
 Easy mode forever  
+to go for next milestone  
+
 
 
 
