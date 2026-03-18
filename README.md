@@ -97,6 +97,8 @@ Easy mode forever
 to go for next milestone  
 role territory  
 One away from big one  
+reached!
+
 
 
 
