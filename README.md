@@ -86,7 +86,7 @@ Wallet activity for more roles soon
 Basescan tx history looks clean  
 Close to 100+ unlock vibes 
 Base community energy is high
-
+One step at a time
 
 
 
