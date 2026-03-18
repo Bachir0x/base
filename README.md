@@ -82,6 +82,8 @@ Read something about Base governance
 Base is fast, cheap, and based  
 Ecosystem apps growing every month
 Wallet activity for more roles soon
+170 total – pro NEET explorer  
+
 
 
 
