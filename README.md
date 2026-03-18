@@ -108,6 +108,8 @@ Free testnet playtime ideas
 Base ecosystem keeps expanding  
 total mindset  
 More notes on cheap txs 
+Follow more Base accounts maybe  
+
 
 
 
