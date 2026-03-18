@@ -113,6 +113,8 @@ Builder cred building
 Base docs are solid 
 Explorer mode maxed  
 NEET builder aesthetic
+Base is the future L2
+
 
 
 
