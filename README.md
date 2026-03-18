@@ -53,6 +53,8 @@ Noted Base has optimistic rollups
 Thinking about cheap gas fees forever
 Saw some Base NFT projects in ecosystem  
 Lazy bookmark: base.org/ecosystem
+Base is growing fast in 2026 vibes
+
 
 
 
