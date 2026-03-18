@@ -104,6 +104,8 @@ Base exploration never ends
 Noted more L2 benefits  
 Lazy but consistent wins
 Thinking about Remix again
+Free testnet playtime ideas 
+
 
 
 
