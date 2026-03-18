@@ -69,6 +69,8 @@ Followed @BuildOnBase already? NO
 Guild roles stacking up nicely  
 140 total, chill progress  
 Explored Base docs on contracts
+Low fees = more experiments possible 
+
 
 
 
