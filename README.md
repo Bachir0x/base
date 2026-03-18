@@ -112,6 +112,8 @@ Follow more Base accounts maybe
 Builder cred building  
 Base docs are solid 
 Explorer mode maxed  
+NEET builder aesthetic
+
 
 
 
