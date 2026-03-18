@@ -102,6 +102,8 @@ Bonus round started
 Keep the log growing  
 Base exploration never ends 
 Noted more L2 benefits  
+Lazy but consistent wins
+
 
 
 
