@@ -67,6 +67,8 @@ dApps on Base look fun to try
 Thinking of a test tx or two 
 Followed @BuildOnBase already? NO
 Guild roles stacking up nicely  
+140 total, chill progress  
+
 
 
 
