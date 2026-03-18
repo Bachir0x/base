@@ -107,6 +107,8 @@ Thinking about Remix again
 Free testnet playtime ideas 
 Base ecosystem keeps expanding  
 total mindset  
+More notes on cheap txs 
+
 
 
 
