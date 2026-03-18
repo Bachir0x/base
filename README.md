@@ -55,6 +55,8 @@ Saw some Base NFT projects in ecosystem
 Lazy bookmark: base.org/ecosystem
 Base is growing fast in 2026 vibes
 Noted Coinbase Wallet supports Base  
+Maybe try a faucet again soon  
+
 
 
 
