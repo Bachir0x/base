@@ -71,6 +71,8 @@ Guild roles stacking up nicely
 Explored Base docs on contracts
 Low fees = more experiments possible 
 Imagining my first deploy note 
+Base builder path is open to all  
+
 
 
 
