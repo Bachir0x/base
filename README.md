@@ -74,6 +74,8 @@ Imagining my first deploy note
 Base builder path is open to all  
 150 total – nice round number 
 Checked token standards on Base
+NFTs on Base seem accessible 
+
 
 
 
