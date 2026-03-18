@@ -80,6 +80,8 @@ Still zero code, all good
 160 total, momentum building 
 Read something about Base governance 
 Base is fast, cheap, and based  
+Ecosystem apps growing every month
+
 
 
 
