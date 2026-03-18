@@ -77,6 +77,8 @@ Checked token standards on Base
 NFTs on Base seem accessible 
 Looking at open Base GitHub repos
 Still zero code, all good  
+160 total, momentum building 
+
 
 
 
