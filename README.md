@@ -76,6 +76,8 @@ Base builder path is open to all
 Checked token standards on Base
 NFTs on Base seem accessible 
 Looking at open Base GitHub repos
+Still zero code, all good  
+
 
 
 
