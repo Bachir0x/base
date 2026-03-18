@@ -92,6 +92,8 @@ Lazy streak still alive
 L2 advantages of Base noted again  
 Feeling the finish line  
 more batches
+left in this set  
+
 
 
 
