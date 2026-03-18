@@ -100,6 +100,8 @@ One away from big one
 reached!
 Bonus round started
 Keep the log growing  
+Base exploration never ends 
+
 
 
 
