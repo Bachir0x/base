@@ -106,6 +106,8 @@ Lazy but consistent wins
 Thinking about Remix again
 Free testnet playtime ideas 
 Base ecosystem keeps expanding  
+total mindset  
+
 
 
 
