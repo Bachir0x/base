@@ -109,6 +109,8 @@ Base ecosystem keeps expanding
 total mindset  
 More notes on cheap txs 
 Follow more Base accounts maybe  
+Builder cred building  
+
 
 
 
