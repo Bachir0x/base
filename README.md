@@ -89,5 +89,7 @@ Base community energy is high
 One step at a time
 180 total – almost legend  
 Lazy streak still alive  
+L2 advantages of Base noted again  
+
 
 
