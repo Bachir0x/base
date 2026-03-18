@@ -59,7 +59,9 @@ Maybe try a faucet again soon
 Exploring Basescan features slowly  
 110 total mindset, keep going
 Read about Base bridge delays sometimes  
- GM Base community in my head
+GM Base community in my head
+Noted OP Stack powers Base  
+
 
 
 
